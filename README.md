@@ -46,7 +46,7 @@ The flow needs access to the following connections to use their connectors.
 4. Import
 5. Edit the flow to make the necessary adjustments
     1. Adjust the selected calendar
-    2. Adjust the selected time zone
+    2. Adjust the selected [time zone](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/default-time-zones?view=windows-11)
 
 ### How it works <a name="engHowItWorks"></a>
 
@@ -84,7 +84,7 @@ Der Flow benötigt Zugriff auf folgende Verbindungen.
 4. Importieren
 5. Bearbeiten, um notwendige Anpassungen vorzunehmen
     1. Anpassen des ausgewählten Kalenders
-    2. Evtl. anpassen der ausgewählten Zeitzone
+    2. Evtl. anpassen der ausgewählten [Zeitzone](https://docs.microsoft.com/de-de/windows-hardware/manufacture/desktop/default-time-zones?view=windows-11)
 
 ### Funktionsweise <a name="gerHowItWorks"></a>
 
